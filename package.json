@@ -1,0 +1,11 @@
+{
+  "name": "bridge-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix bridge run dev",
+    "build": "npm --prefix bridge run build",
+    "preview": "npm --prefix bridge run preview",
+    "server": "npm --prefix bridge run server",
+    "lint": "npm --prefix bridge run lint"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Nia Muthoni",
+      "email": "nia.muthoni@brightpath.edu",
+      "age": 19,
+      "gender": "Female",
+      "course": "Software Development"
+    },
+    {
+      "id": 2,
+      "name": "Daniel Ouma",
+      "email": "daniel.ouma@brightpath.edu",
+      "age": 21,
+      "gender": "Male",
+      "course": "Networking"
+    },
+    {
+      "id": 3,
+      "name": "Grace Njeri",
+      "email": "grace.njeri@brightpath.edu",
+      "age": 20,
+      "gender": "Female",
+      "course": "Data Analytics"
+    },
+    {
+      "id": 4,
+      "name": "Ethan Kariuki",
+      "email": "ethan.kariuki@brightpath.edu",
+      "age": 22,
+      "gender": "Male",
+      "course": "Cybersecurity"
+    },
+    {
+      "id": 5,
+      "name": "Lucy Achieng",
+      "email": "lucy.achieng@brightpath.edu",
+      "age": 18,
+      "gender": "Female",
+      "course": "Software Development"
+    },
+    {
+      "id": 6,
+      "name": "Samuel Kibet",
+      "email": "samuel.kibet@brightpath.edu",
+      "age": 23,
+      "gender": "Male",
+      "course": "Business IT"
+    },
+    {
+      "id": 7,
+      "name": "Faith Mwangi",
+      "email": "faith.mwangi@brightpath.edu",
+      "age": 20,
+      "gender": "Female",
+      "course": "Data Analytics"
+    },
+    {
+      "id": 8,
+      "name": "Joseph Mutua",
+      "email": "joseph.mutua@brightpath.edu",
+      "age": 24,
+      "gender": "Male",
+      "course": "Networking"
+    },
+    {
+      "id": 9,
+      "name": "Mary Wairimu",
+      "email": "mary.wairimu@brightpath.edu",
+      "age": 19,
+      "gender": "Female",
+      "course": "Business IT"
+    },
+    {
+      "id": 10,
+      "name": "Peter Karanja",
+      "email": "peter.karanja@brightpath.edu",
+      "age": 21,
+      "gender": "Male",
+      "course": "Cybersecurity"
+    }
+  ]
+}
